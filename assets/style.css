@@ -1,9 +1,10 @@
 body {
+	
 	max-width: 1920px;
 	margin: auto;
 }
 * {
-	font-family: 'Inter';
+	font-family: 'Inter', "Helvetica", "Arial", sans-serif;
 	font-style: normal;
 }
 .top-header {
@@ -102,7 +103,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #543919;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
